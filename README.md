@@ -13,25 +13,25 @@ Live demo: [Content Rating](https://milantony05.github.io/content_rating/)
 To include the `ContentRating` component in your project, follow these steps:
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/milantony05/content_rating.git
    ```
-
 2. **Navigate to the project directory:**
-
    ```bash
    cd content_rating
    ```
-
 3. **Install dependencies:**
-
    ```bash
    npm install
    ```
-
 4. **Start the development server:**
-
    ```bash
    npm run dev
    ```
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Vite + React
