@@ -10,7 +10,7 @@ Live demo: [Content Rating](https://milantony05.github.io/content_rating/)
 
 ## Installation
 
-To include the `ContentRating` component in your project, follow these steps:
+To include the `ContentRating` component in your project:
 
 1. **Clone the repository:**
    ```bash
