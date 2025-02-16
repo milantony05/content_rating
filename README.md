@@ -6,7 +6,7 @@ A React component called 'ContentRating' where the component will let users rate
 
 ## Demo
 
-Live demo: [Content Rating Demo](https://milantony05.github.io/content_rating/)
+[Content Rating](https://milantony05.github.io/content_rating/)
 
 ## Installation
 
